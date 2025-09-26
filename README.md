@@ -27,7 +27,7 @@ Just simply use `WASD` to move your formula to different directions and avoid ob
 
 Pdf documentation file is in slovak language:
 
-- [Documentation](https://github.com/lubomirbojda/INF1-SEM/blob/main/Dokument%C3%A1cia.pdf)
+- [Documentation](https://github.com/lubomirbojda/Formula-racing-game-2D/blob/main/Dokument%C3%A1cia.pdf)
 
 Code comments, variables and everything similiar is also in slovak language.
 ## Screenshots
